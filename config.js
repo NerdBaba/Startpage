@@ -23,7 +23,7 @@ const CONFIG = {
   greetingNight: 'Go to Sleep!',
 
   // Weather
-  weatherKey: 'InsertYourAPIKeyHere123456',
+  weatherKey: 'f8d3acdbc21f406e93308d6e771443cc',
   weatherIcons: 'OneDark', // 'Nord', 'Dark', 'White'
   weatherUnit: 'C', // 'F', 'C'
   language: 'en', // More languages in https://openweathermap.org/current#multi
@@ -59,7 +59,7 @@ const CONFIG = {
     {
       id: '4',
       name: 'Discord',
-      icon: 'discord',
+      icon: 'message-circle',
       link: 'https://discord.com/app',
     },
     {
@@ -110,8 +110,8 @@ const CONFIG = {
         link: 'https://linkedin.com/',
       },
       {
-        name: 'Figma',
-        link: 'https://figma.com/',
+        name: 'Unixporn',
+        link: 'https://reddit.com/r/unixporn',
       },
       {
         name: 'Dribbble',
