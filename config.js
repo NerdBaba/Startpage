@@ -52,9 +52,9 @@ const CONFIG = {
     },
     {
       id: '3',
-      name: 'Todoist',
-      icon: 'trello',
-      link: 'https://todoist.com',
+      name: 'Classroom',
+      icon: 'book-open',
+      link: 'https://classroom.google.com/',
     },
     {
       id: '4',
@@ -114,8 +114,8 @@ const CONFIG = {
         link: 'https://reddit.com/r/unixporn',
       },
       {
-        name: 'Dribbble',
-        link: 'https://dribbble.com',
+        name: 'Z-Library',
+        link: 'https://1lib.in',
       },
       {
         name: 'Telegram',
