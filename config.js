@@ -46,9 +46,9 @@ const CONFIG = {
     },
     {
       id: '2',
-      name: 'Mail',
-      icon: 'mail',
-      link: 'https://mail.protonmail.com/',
+      name: 'ProtonDB',
+      icon: 'package',
+      link: 'https://www.protondb.com/',
     },
     {
       id: '3',
