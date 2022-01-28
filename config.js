@@ -66,7 +66,7 @@ const CONFIG = {
       id: '5',
       name: 'Reddit',
       icon: 'glasses',
-      link: 'https://reddit.com',
+      link: 'https://www.reddit.com/user/CyberD3Mo/saved/',
     },
     {
       id: '6',
