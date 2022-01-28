@@ -118,8 +118,8 @@ const CONFIG = {
         link: 'https://1lib.in',
       },
       {
-        name: 'Telegram',
-        link: 'https://webk.telegram.org',
+        name: 'XKCD',
+        link: 'https://xkcd-search.typesense.org/',
       },
     ],
   },
